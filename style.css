@@ -2,3 +2,6 @@ h1 {
     color:aquamarine; 
 }
 body {background-color: rgb(228, 155, 155);}
+.image {
+    width: 200px;
+}
